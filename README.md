@@ -1,1 +1,1 @@
-# summer_practice
+# Repository for summer practice reports
